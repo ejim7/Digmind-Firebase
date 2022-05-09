@@ -1,1 +1,1 @@
-# Digmind-Firebase
+# Digimind
